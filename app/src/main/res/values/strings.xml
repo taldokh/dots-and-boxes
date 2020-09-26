@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dots&amp;Boxes</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <integer name="grid_column_size">9</integer>
+</resources>
